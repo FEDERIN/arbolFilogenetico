@@ -1,0 +1,15 @@
+C:\Users\fgutiero\Source\Repos\arbolFilogenetico\bin\Debug\net6.0\arbolFilogenetico.exe
+C:\Users\fgutiero\Source\Repos\arbolFilogenetico\bin\Debug\net6.0\arbolFilogenetico.deps.json
+C:\Users\fgutiero\Source\Repos\arbolFilogenetico\bin\Debug\net6.0\arbolFilogenetico.runtimeconfig.json
+C:\Users\fgutiero\Source\Repos\arbolFilogenetico\bin\Debug\net6.0\arbolFilogenetico.dll
+C:\Users\fgutiero\Source\Repos\arbolFilogenetico\bin\Debug\net6.0\arbolFilogenetico.pdb
+C:\Users\fgutiero\Source\Repos\arbolFilogenetico\obj\Debug\net6.0\arbolFilogenetico.csproj.AssemblyReference.cache
+C:\Users\fgutiero\Source\Repos\arbolFilogenetico\obj\Debug\net6.0\arbolFilogenetico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgutiero\Source\Repos\arbolFilogenetico\obj\Debug\net6.0\arbolFilogenetico.AssemblyInfoInputs.cache
+C:\Users\fgutiero\Source\Repos\arbolFilogenetico\obj\Debug\net6.0\arbolFilogenetico.AssemblyInfo.cs
+C:\Users\fgutiero\Source\Repos\arbolFilogenetico\obj\Debug\net6.0\arbolFilogenetico.csproj.CoreCompileInputs.cache
+C:\Users\fgutiero\Source\Repos\arbolFilogenetico\obj\Debug\net6.0\arbolFilogenetico.dll
+C:\Users\fgutiero\Source\Repos\arbolFilogenetico\obj\Debug\net6.0\refint\arbolFilogenetico.dll
+C:\Users\fgutiero\Source\Repos\arbolFilogenetico\obj\Debug\net6.0\arbolFilogenetico.pdb
+C:\Users\fgutiero\Source\Repos\arbolFilogenetico\obj\Debug\net6.0\arbolFilogenetico.genruntimeconfig.cache
+C:\Users\fgutiero\Source\Repos\arbolFilogenetico\obj\Debug\net6.0\ref\arbolFilogenetico.dll

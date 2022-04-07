@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "arbolFilogenetico/1.0.0": {
+        "runtime": {
+          "arbolFilogenetico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arbolFilogenetico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
